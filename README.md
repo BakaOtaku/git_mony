@@ -2,6 +2,10 @@
 <h1 align="center">Gitmony</h1>
 <h6 align="center">Make open source sustainable so that developers are appropriately rewarded</h6>
 
+### If you see a duplicate submission of Gitmony by fuzious (my teammate) then please ignore it as it was submitted by mistake due some error and please consider this link - [Project submission](https://gitcoin.co/hackathon/hack-the-horizon/projects/4190/gitmony) of username dixitaniket
+
+
+
 GitMony uses **Harmony Bridge** and **Chainlink oracle**, to make a completely decentralized platform to reward opensource contributors.
 
 - [Project Demo](https://www.youtube.com/watch?v=M7-3AImM8mI)
@@ -21,7 +25,7 @@ Now chainlink will verify the commit from github and if the wallet address on th
 ### Running the project on your machine
 
 ```bash
-git clone git clone https://github.com/BakaOtaku/gitmony.git
+git clone git clone https://github.com/BakaOtaku/git_mony.git
 
 # Start the server
 cd server
