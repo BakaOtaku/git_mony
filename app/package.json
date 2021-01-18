@@ -1,0 +1,22 @@
+{
+  "name": "gitmony",
+  "description": "Make open source sustainable",
+  "version": "1.0.0",
+  "author": "Aman Raj <archanaamanraj@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "next": "^10.0.3",
+    "next-offline": "^5.0.3",
+    "nprogress": "^0.2.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "sharp": "^0.26.3"
+  },
+  "license": "MIT"
+}

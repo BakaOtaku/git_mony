@@ -1,0 +1,17 @@
+{
+  "name": "Gitmony",
+  "short_name": "Make open source sustainable",
+  "start_url": "/",
+  "lang": "en-US",
+  "display": "standalone",
+  "background_color": "#0f3057",
+  "theme_color": "#0f3057",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
