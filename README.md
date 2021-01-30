@@ -2,14 +2,13 @@
 <h1 align="center">Gitmony</h1>
 <h6 align="center">Make open source sustainable so that developers are appropriately rewarded</h6>
 
-### If you see a duplicate submission of Gitmony by fuzious (my teammate) then please ignore it as it was submitted by mistake due some error and please consider this link - [Project submission](https://gitcoin.co/hackathon/hack-the-horizon/projects/4190/gitmony) of username dixitaniket
-
 
 
 GitMony uses **Harmony Bridge** and **Chainlink oracle**, to make a completely decentralized platform to reward opensource contributors.
 
-- [Project Demo](https://www.youtube.com/watch?v=M7-3AImM8mI)
-
+- 🎥 [Project Demo](https://www.youtube.com/watch?v=M7-3AImM8mI)
+- 📰 [GitCoin Submission](https://gitcoin.co/hackathon/hack-the-horizon/projects/4190/gitmony)
+- 🌐 [Oracle Jobs](https://market.link/jobs/c2387021-cf1c-44a0-ae79-66fcdf39cff3/runs)
 ### Problem
 
 Every year, there are events like Hacktoberfest and also some platforms which reward open source contributors but this system is somewhat centralized.
